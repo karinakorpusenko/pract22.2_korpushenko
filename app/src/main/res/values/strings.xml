@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Search for recipes</string>
+    <string name="enter_log"> Введите логин</string>
+    <string name="enter_pas"> Введите пароль</string>
+    <string name="check_pas"> Подтвердите пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="log_in">Войти</string>
+    <string name="No_acc">Ещё нет аккаунта?</string>
+    <string name="Registerr">Зарегистрируйтесь!</string>
+</resources>
